@@ -16,10 +16,11 @@ It also allows you to mount a pseudo file system containing (a subset of) your c
 
 ### From soucre: 
 
-Make sure you have [go](https://golang.org/doc/install) installed, then run:
+Make sure you have [go](https://golang.org/doc/install) installed, then change to the $GOPATH directory
+(default is ~/go) and run:
 
-```
-go get -u github.com/unprofession-al/scum
+```bash
+go install github.com/unprofession-al/scum@latest
 ```
 
 ### Usage
