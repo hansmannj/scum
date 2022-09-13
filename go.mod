@@ -1,4 +1,4 @@
-module scum github.com/unprofession-al/scum
+module github.com/unprofession-al/scum
 
 go 1.13
 
